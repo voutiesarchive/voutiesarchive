@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Expeditions category</title>
+    <link>https://vouti.es/t/about-the-expeditions-category/192</link>
+    <description>Η κατηγορία περιέχει συζητήσεις και άρθρα που αφορούν εξερευνητικές, επιστημονικές, αρχαιολογικές, ιστορικές αποστολές.</description>
+    
+    <lastBuildDate>Mon, 17 Sep 2018 16:18:12 +0000</lastBuildDate>
+    <category>Expeditions</category>
+    <atom:link href="https://vouti.es/t/about-the-expeditions-category/192.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Expeditions category</title>
+        <dc:creator><![CDATA[app_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>Η κατηγορία περιέχει συζητήσεις και άρθρα που αφορούν εξερευνητικές, επιστημονικές, αρχαιολογικές, ιστορικές αποστολές.</p>
+          <p><a href="https://vouti.es/t/about-the-expeditions-category/192/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://vouti.es/t/about-the-expeditions-category/192/1</link>
+        <pubDate>Mon, 17 Sep 2018 16:17:04 +0000</pubDate>
+        <guid isPermaLink="false">vouti.es-post-192-1</guid>
+        <source url="https://vouti.es/t/about-the-expeditions-category/192.rss">About the Expeditions category</source>
+      </item>
+  </channel>
+</rss>

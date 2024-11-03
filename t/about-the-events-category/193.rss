@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Events category</title>
+    <link>https://vouti.es/t/about-the-events-category/193</link>
+    <description>Στην κατηγορία αυτή εντάσσονται συζητήσεις και ανακοινώσεις σχετικά με εκδηλώσεις, δημόσια γεγονότα, σεμινάρια, ομιλίες, παρουσιάσεις κλπ</description>
+    
+    <lastBuildDate>Mon, 17 Sep 2018 16:28:50 +0000</lastBuildDate>
+    <category>Events</category>
+    <atom:link href="https://vouti.es/t/about-the-events-category/193.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Events category</title>
+        <dc:creator><![CDATA[app_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>Στην κατηγορία αυτή εντάσσονται συζητήσεις και ανακοινώσεις σχετικά με εκδηλώσεις, δημόσια γεγονότα, σεμινάρια, ομιλίες, παρουσιάσεις κλπ</p>
+          <p><a href="https://vouti.es/t/about-the-events-category/193/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://vouti.es/t/about-the-events-category/193/1</link>
+        <pubDate>Mon, 17 Sep 2018 16:27:59 +0000</pubDate>
+        <guid isPermaLink="false">vouti.es-post-193-1</guid>
+        <source url="https://vouti.es/t/about-the-events-category/193.rss">About the Events category</source>
+      </item>
+  </channel>
+</rss>

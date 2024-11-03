@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Νέες λειτουργίες ή χαρακτηριστικά</title>
+    <link>https://vouti.es/t/topic/62</link>
+    <description>**Προσθήκη νέων λειτουργιών στο vouti.es**
+
+* Mailing List Mode - Στις προτιμήσεις του χρήστη (το γραναζάκι αν κάνεις κλικ στο avatar) υπάρχει η δυνατότητα να ενεργοποιήσεις το &#39;Mailing  List Mode&#39;. Σε αυτό το mode θα λαμβάνεις ένα email για κάθε καινούριο post και ταυτόχρονα θα μπορείς να απαντήσεις σε ένα thread μέσω email. Like good ol&#39; mailing lists ;) 
+
+* Login with Google - Προστέθηκε η δυνατότητα δημιουργίας λογαριασμού και login με Google account. Η νέα αυτή μέθοδος authentication είναι προαιρετική και απευθύνεται σε αυτές/αυτούς που βαριούνται να θυμούνται άλλο ένα username/password για το vouti.es . Διατηρείται κανονικά η επιλογή authentication με local account στο vouti.es.</description>
+    
+    <lastBuildDate>Sat, 21 Jan 2017 13:55:07 +0000</lastBuildDate>
+    <category>vouti.es Announcements</category>
+    <atom:link href="https://vouti.es/t/topic/62.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Νέες λειτουργίες ή χαρακτηριστικά</title>
+        <dc:creator><![CDATA[app_admin]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Προσθήκη νέων λειτουργιών στο <a href="//vouti.es">vouti.es</a></strong></p>
+<ul>
+<li>
+<p>Mailing List Mode - Στις προτιμήσεις του χρήστη (το γραναζάκι αν κάνεις κλικ στο avatar) υπάρχει η δυνατότητα να ενεργοποιήσεις το ‘Mailing  List Mode’. Σε αυτό το mode θα λαμβάνεις ένα email για κάθε καινούριο post και ταυτόχρονα θα μπορείς να απαντήσεις σε ένα thread μέσω email. Like good ol’ mailing lists <img src="//vouti.es/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+</li>
+<li>
+<p>Login with Google - Προστέθηκε η δυνατότητα δημιουργίας λογαριασμού και login με Google account. Η νέα αυτή μέθοδος authentication είναι προαιρετική και απευθύνεται σε αυτές/αυτούς που βαριούνται να θυμούνται άλλο ένα username/password για το <a href="//vouti.es">vouti.es</a> . Διατηρείται κανονικά η επιλογή authentication με local account στο <a href="//vouti.es">vouti.es</a>.</p>
+</li>
+</ul>
+          <p><a href="https://vouti.es/t/topic/62/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://vouti.es/t/topic/62/1</link>
+        <pubDate>Sat, 21 Jan 2017 13:55:07 +0000</pubDate>
+        <guid isPermaLink="false">vouti.es-post-62-1</guid>
+        <source url="https://vouti.es/t/topic/62.rss">Νέες λειτουργίες ή χαρακτηριστικά</source>
+      </item>
+  </channel>
+</rss>

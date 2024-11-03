@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the News category</title>
+    <link>https://vouti.es/t/about-the-news-category/39</link>
+    <description>Νέα από τον υδάτινο κόσμο</description>
+    
+    <lastBuildDate>Sat, 04 Mar 2017 22:42:29 +0000</lastBuildDate>
+    <category>News</category>
+    <atom:link href="https://vouti.es/t/about-the-news-category/39.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the News category</title>
+        <dc:creator><![CDATA[jpr]]></dc:creator>
+        <description><![CDATA[
+            <p>Νέα από τον υδάτινο κόσμο</p>
+          <p><a href="https://vouti.es/t/about-the-news-category/39/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://vouti.es/t/about-the-news-category/39/1</link>
+        <pubDate>Tue, 08 Nov 2016 08:31:38 +0000</pubDate>
+        <guid isPermaLink="false">vouti.es-post-39-1</guid>
+        <source url="https://vouti.es/t/about-the-news-category/39.rss">About the News category</source>
+      </item>
+  </channel>
+</rss>

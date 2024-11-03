@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Site Feedback - Vouties!</title>
+    <link>https://vouti.es/c/site-feedback/3</link>
+    <description>Topics in the &#39;Site Feedback&#39; category Discussion about this site, its organization, how it works, and how we can improve it.</description>
+    
+      <lastBuildDate>Sun, 11 Sep 2016 12:01:30 +0000</lastBuildDate>
+      <atom:link href="https://vouti.es/c/site-feedback/3.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>About the Site Feedback category</title>
+          <dc:creator><![CDATA[system]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p>Discussion about this site, its organization, how it works, and how we can improve it.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://vouti.es/t/about-the-site-feedback-category/2">Read full topic</a></p>
+          ]]></description>
+          <link>https://vouti.es/t/about-the-site-feedback-category/2</link>
+          <pubDate>Sun, 11 Sep 2016 12:01:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">vouti.es-topic-2</guid>
+          <source url="https://vouti.es/t/about-the-site-feedback-category/2.rss">About the Site Feedback category</source>
+        </item>
+  </channel>
+</rss>

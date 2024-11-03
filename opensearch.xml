@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Vouties! Search</ShortName>
+  <Description>Search for posts on Vouties!</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://vouti.es/uploads/default/optimized/1X/ea2cc583a0bb549b6f728b5bf4ac5c995043789c_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://vouti.es/opensearch.xml"/>
+  <Url type="text/html" template="https://vouti.es/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

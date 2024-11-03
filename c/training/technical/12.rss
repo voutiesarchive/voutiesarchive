@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Technical - Vouties!</title>
+    <link>https://vouti.es/c/training/technical/12</link>
+    <description>Topics in the &#39;Technical&#39; category Πληροφορίες &amp;amp; σχόλια σχετικά με την εκπαίδευση στην &lt;strong&gt;τεχνική&lt;/strong&gt; κατάδυση (οργανισμούς, σχολεία κλπ)</description>
+    
+      <lastBuildDate>Tue, 08 Nov 2016 08:58:28 +0000</lastBuildDate>
+      <atom:link href="https://vouti.es/c/training/technical/12.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>About the Technical category</title>
+          <dc:creator><![CDATA[jpr]]></dc:creator>
+          <category>Technical</category>
+          <description><![CDATA[
+            <p>Πληροφορίες &amp; σχόλια σχετικά με την εκπαίδευση στην <strong>τεχνική</strong> κατάδυση (οργανισμούς, σχολεία κλπ)</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://vouti.es/t/about-the-technical-category/42">Read full topic</a></p>
+          ]]></description>
+          <link>https://vouti.es/t/about-the-technical-category/42</link>
+          <pubDate>Tue, 08 Nov 2016 08:58:28 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">vouti.es-topic-42</guid>
+          <source url="https://vouti.es/t/about-the-technical-category/42.rss">About the Technical category</source>
+        </item>
+  </channel>
+</rss>

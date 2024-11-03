@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>vouti.es Announcements - Vouties!</title>
+    <link>https://vouti.es/c/announcements/10</link>
+    <description>Topics in the &#39;vouti.es Announcements&#39; category Ανακοινώσεις σχετικά με τη λειτουργία του vouti.es</description>
+    
+      <lastBuildDate>Sat, 21 Jan 2017 13:55:07 +0000</lastBuildDate>
+      <atom:link href="https://vouti.es/c/announcements/10.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Νέες λειτουργίες ή χαρακτηριστικά</title>
+          <dc:creator><![CDATA[app_admin]]></dc:creator>
+          <category>vouti.es Announcements</category>
+          <description><![CDATA[
+            <p><strong>Προσθήκη νέων λειτουργιών στο <a href="//vouti.es">vouti.es</a></strong></p>
+<ul>
+<li>
+<p>Mailing List Mode - Στις προτιμήσεις του χρήστη (το γραναζάκι αν κάνεις κλικ στο avatar) υπάρχει η δυνατότητα να ενεργοποιήσεις το ‘Mailing  List Mode’. Σε αυτό το mode θα λαμβάνεις ένα email για κάθε καινούριο post και ταυτόχρονα θα μπορείς να απαντήσεις σε ένα thread μέσω email. Like good ol’ mailing lists <img src="//vouti.es/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+</li>
+<li>
+<p>Login with Google - Προστέθηκε η δυνατότητα δημιουργίας λογαριασμού και login με Google account. Η νέα αυτή μέθοδος authentication είναι προαιρετική και απευθύνεται σε αυτές/αυτούς που βαριούνται να θυμούνται άλλο ένα username/password για το <a href="//vouti.es">vouti.es</a> . Διατηρείται κανονικά η επιλογή authentication με local account στο <a href="//vouti.es">vouti.es</a>.</p>
+</li>
+</ul>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://vouti.es/t/topic/62">Read full topic</a></p>
+          ]]></description>
+          <link>https://vouti.es/t/topic/62</link>
+          <pubDate>Sat, 21 Jan 2017 13:55:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">vouti.es-topic-62</guid>
+          <source url="https://vouti.es/t/topic/62.rss">Νέες λειτουργίες ή χαρακτηριστικά</source>
+        </item>
+        <item>
+          <title>About the vouti.es Announcements category</title>
+          <dc:creator><![CDATA[jpr]]></dc:creator>
+          <category>vouti.es Announcements</category>
+          <description><![CDATA[
+            <p>Ανακοινώσεις σχετικά με τη λειτουργία του <a href="//vouti.es">vouti.es</a></p>
+            <p><small>4 posts - 1 participant</small></p>
+            <p><a href="https://vouti.es/t/about-the-vouti-es-announcements-category/40">Read full topic</a></p>
+          ]]></description>
+          <link>https://vouti.es/t/about-the-vouti-es-announcements-category/40</link>
+          <pubDate>Tue, 08 Nov 2016 08:34:42 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">vouti.es-topic-40</guid>
+          <source url="https://vouti.es/t/about-the-vouti-es-announcements-category/40.rss">About the vouti.es Announcements category</source>
+        </item>
+        <item>
+          <title>Καλωσήρθες στο vouti.es!</title>
+          <dc:creator><![CDATA[app_admin]]></dc:creator>
+          <category>vouti.es Announcements</category>
+          <description><![CDATA[
+            <p>Tο <a href="//vouti.es">vouti.es</a> είναι ένας <a href="https://www.discourse.org/">ιστότοπος</a> δημόσιων συζητήσεων.</p>
+<p>Συζητάμε για καταδύσεις, βουτιές και πλατσουρίσματα. Μοιραζόμαστε ενδιαφέροντα πράγματα γύρω από τον υδάτινο κόσμο: ειδήσεις, άρθρα, βίντεο, προσωπικές εμπειρίες, σημεία βουτιάς, προβληματισμούς, εξοπλισμούς κοκ.</p>
+<p>Στο <a href="//vouti.es">vouti.es</a> θέλουμε πληροφορίες αλλά όχι διαφημίσεις, θέλουμε κριτικές αλλά με σεβασμό και κοινή λογική.</p>
+<p>Δεν έχει σημασία αν είσαι έμπειρη ή νέος, αν είσαι εκπαιδεύτρια ή εκπαιδευόμενος, αν απολαμβάνεις τα χρώματα των υφάλων μέχρι τα 20m ή σε εξιτάρει περισσότερο η τεχνική κατάδυση, αν προτιμάς το απέραντο μπλε των ωκεανών ή τις μαγευτικές εικόνες ενός σπηλαίου. Είσαι ευπρόσδεκτη/ος αφού αγαπάς να εξερευνάς τον υδατινο κόσμο <img src="//vouti.es/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p><em>Δημιούργησε ένα λογαριασμό και ξεκίνα μια ενδιαφέρουσα συζήτηση λοιπόν!</em></p>
+<p>Καλές βουτιές!</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://vouti.es/t/vouti-es/8">Read full topic</a></p>
+          ]]></description>
+          <link>https://vouti.es/t/vouti-es/8</link>
+          <pubDate>Sun, 11 Sep 2016 12:01:31 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">vouti.es-topic-8</guid>
+          <source url="https://vouti.es/t/vouti-es/8.rss">Καλωσήρθες στο vouti.es!</source>
+        </item>
+  </channel>
+</rss>
